@@ -1,0 +1,20 @@
+THE IMPORTANCE OF GIT AND GITHUB 
+
+Why does GIT Important?
+   - Real time projects of today's have commonly have
+   a multiple developer that working at the same time.
+   So Git have been develop to ensure and help to avoid
+   code conflict between the developers. Projects which
+   are being run in a parallel time are often changing.
+   A version control system like Git allows developer
+   to trace and go back to previous version of the code.
+   In a case which project have the same codebase, the
+   concept of branching is very important.
+
+Why does GITHUB Important?
+   - Every project on Github has it own repositories and
+   has it unique url that provides a graphic user interface
+   to stored the files and helps team members to coordinate
+   on the project from anywhere. Github provides separate
+   exit controls and collaboration details like basic tasks
+   management for every projects.
