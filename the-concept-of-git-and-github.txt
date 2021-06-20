@@ -1,0 +1,14 @@
+THE CONCEPT OF GIT AND GITHUB
+
+What is GIT?
+GIT - is a free and open source distributed
+    version control system designed to handle
+    small to very large projects with speed
+    and efficiency.
+
+What is GITHUB?
+GITHUB - is a Git repository hosting service
+    which provides web-based graphical interface
+    and allows each developer to work together
+    on a project and easy collaborate with other
+    developer.
